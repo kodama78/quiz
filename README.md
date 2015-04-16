@@ -34,11 +34,11 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 5 - Commit your files to your repo (See [here](https://github.com/Learning-Fuze/git-workflow/blob/master/README.md) if you need a refresher
 - Go to your terminal / git bash
 - Add your new files to git
-    - git add .
+    - `git add .`
 - Commit your files to git
-    - git commit -m '[your git commit message here]'
+    - `git commit -m '[your git commit message here]'`
 - Push your files
-    - git push origin master
+    - `git push origin master`
 
 #### You have done it! Your Quiz has now been added to your github account
 
