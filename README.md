@@ -1,4 +1,4 @@
-# Quiz
+# Quiz Form
 
 # Adding existing files to GitHub
 
@@ -11,14 +11,14 @@ The workflow outlined in the readme below will be utilized for every assignment/
 - You understand how to add files, commit, and push in git
 	- [Git Workflow](https://github.com/Learning-Fuze/git-workflow/blob/master/README.md)
 
-## Migrating your Quiz to GitHub
+## Migrating your Quiz Form to GitHub
 
 ### Step 1 - Fork this repo
 
 - Go to GitHub and fork this repo to your account
 
 ### Step 2 - Clone *your* repo
-- Copy the link from your github account for your Quiz repo
+- Copy the link from your github account for your Quiz Form repo
 - Navigate to your sandbox folder
 - Open up your terminal / git bash to your sandbox folder
 - Clone your repo
@@ -27,8 +27,9 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 3 - Navigate to the newly created folder
 - In your file system (finder / explorer) navigate to the newly created "quiz" folder
 
-### Step 4 - Copy your files from your original quiz to your git Quiz
+### Step 4 - Copy your files from your original 'quiz form' to your git Quiz 
 - Copy the files, not move, though it wouldn't matter tremendously.
+- Make sure to only copy the files related to the Quiz Form assignment.
 
 ### Step 5 - Commit your files to your repo (See [here](https://github.com/Learning-Fuze/git-workflow/blob/master/README.md) if you need a refresher
 - Go to your terminal / git bash
